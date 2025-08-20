@@ -32,5 +32,6 @@ Generated text after training:
 
 
 ## References
+- Yoshua Bengio, Réjean Ducharme, Pascal Vincent, Christian Jauvin. *A Neural Probabilistic Language Model*. JMLR, 2003 — [PDF](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - He et al., "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification" (Kaiming Initialization) — [arXiv:1502.01852](https://arxiv.org/abs/1502.01852)  
 - Ioffe & Szegedy, "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift" — [arXiv:1502.03167](https://arxiv.org/abs/1502.03167)  
