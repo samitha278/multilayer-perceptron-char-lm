@@ -15,7 +15,10 @@ It also investigates training stability and improvements using Batch Normalizati
 
 ## Architecture
 
-![Neural architecture](images/architecture.png)
+<p align="center">
+  <img src="images/architecture.png" alt="Neural architecture" width="400"/>
+</p>
+
 
 *Neural architecture: f(i, w_{t−1}, … , w_{t−n+1}) = g(i, C(w_{t−1}), … , C(w_{t−n+1}))  
 where g is the neural network and C(i) is the i-th word feature vector.*
