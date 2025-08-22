@@ -24,6 +24,13 @@ It also investigates training stability and improvements using Batch Normalizati
 where g is the neural network and C(i) is the i-th word feature vector.*
 
 
+## Batch Normalization Algorithm
+
+<p align="center">
+  <img src="images/bnalgo.png" alt="Batch Normalization Algorithm" width="400"/>
+</p>
+
+
 ## Example Result
 Generated text after training:
 ....
