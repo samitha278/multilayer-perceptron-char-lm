@@ -5,7 +5,8 @@ It also investigates training stability and improvements using Batch Normalizati
 
 ## Notebooks
 - **mlp_char_lm.ipynb** — Implementation of a character-level language model using an MLP, with training pipeline, evaluation, and hyperparameter tuning.  
-- **mlp_batch_norm.ipynb** — Analysis of activations and gradients during training, and improvements with Batch Normalization for stable training.  
+- **mlp_batch_norm.ipynb** — Analysis of activations and gradients during training, and improvements with Batch Normalization for stable training.
+- **mlp_backprop.ipynb** — Implementation of backpropagation
 
 ## Features
 - Character-level text generation  
